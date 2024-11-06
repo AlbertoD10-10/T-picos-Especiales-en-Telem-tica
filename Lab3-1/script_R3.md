@@ -26,6 +26,8 @@ sudo yum install git
 ```
 
 
+
+
 ## Clonación del repositorio
 
 ```bash
