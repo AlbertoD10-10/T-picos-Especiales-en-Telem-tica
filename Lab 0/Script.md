@@ -75,8 +75,3 @@ Accede al grupo de seguridad de la instancia **Master** y abre los puertos neces
    - **Username**: `jovyan`
    - **Password**: `jupyter`
 3. Verifica que las variables de contexto de **Spark** están activas en un notebook **PySpark**.
-
-## Referencias
-
-- [Guía oficial de AWS EMR JupyterHub](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-managed-notebooks.html)
-
